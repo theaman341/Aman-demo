@@ -1,4 +1,4 @@
 # Aman-demo
-my first proj
+my first project
 <br>
 auther - Aman
